@@ -1,0 +1,5 @@
+###### Requirements without Version Specifiers ##########
+dotenv
+discord
+
+###### pip install -r requirements.txt #######
